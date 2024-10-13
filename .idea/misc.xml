@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/../Configuration Server/pom.xml" />
         <option value="$PROJECT_DIR$/Configuration Server/pom.xml" />
         <option value="$PROJECT_DIR$/licensing-service/configuration-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

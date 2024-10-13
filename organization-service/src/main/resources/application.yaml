@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: organization-service
+
+  profiles:
+    active: default
+  config:
+    import: "configserver:http://localhost:8071"
+server:
+  port: 8085

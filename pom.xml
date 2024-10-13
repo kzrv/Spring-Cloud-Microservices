@@ -10,7 +10,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>licensing-service</module>
-
+        <module>configuration-server</module>
+        <module>eurekaserver</module>
+        <module>organization-service</module>
     </modules>
 
     <properties>
